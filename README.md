@@ -193,12 +193,12 @@ I continue to strengthen my understanding of algorithms, time complexity, and ef
   <a href="https://github.com/gungunsingh66">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/gungun-singh-92a21a2aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
-📧 **Email:** YOUR_PROFESSIONAL_EMAIL
+📧 **Email:** gungunsingh06082005@gmail.com
 
 ---
 
